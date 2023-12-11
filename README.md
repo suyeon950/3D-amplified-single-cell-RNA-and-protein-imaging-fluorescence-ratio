@@ -1,5 +1,8 @@
 # 3D-amplified-single-cell-RNA-and-protein-imaging-fluorescence-ratio
-This is MATLAB code for analysis RDCs.
+
+3D amplified single-cell RNA and protein imaging identifies oncogenic transcript subtypes in B cell acute lymphoblastic leukemia
+
+This is MATLAB code for analysis of RDCs.
 
 -cdMarkerana is code to classify RDC into CD marker according to fluorescence rate.
 
